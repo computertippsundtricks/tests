@@ -1,1 +1,2 @@
-print('Version 2')
+def main():
+  print('Version 2')
